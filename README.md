@@ -1,11 +1,32 @@
-# RollingRedemption
-It's a HyperCasual tap game which everyone can enjoy in their boredom 
+# Rolling Redemption
 
-GamePlay video :- 
+Rolling Redemption is a hypercasual game developed for Android within a 3-hour time frame. The game showcases clean code and a minimalist UI design, making it appealing to players of all ages.
 
-https://github.com/DevMaheshwari2017/RollingRedemption/assets/126550829/bf09b3f3-3721-40cc-a460-a922dc8547b0
+## Key Features:
 
-Download the APK from Gdrive :- https://drive.google.com/drive/folders/1cs87wZ6CT1HU1AZfDtn_CA-ftNqWoSeW
+**Addictive Game Mechanics:** The game features engaging and addictive mechanics that keep players coming back for more.
 
-Download APK from Itch.io :- https://devmaheshwari.itch.io/rolling-redemption
+**Minimalist UI Design:** The user interface is simple and clean, ensuring a smooth and enjoyable user experience.
+
+**High Player Retention:** The engaging gameplay has resulted in a significant boost in player retention and user engagement rates compared to similar games on the market.
+
+## Development Highlights:
+
+**Rapid Development:** The game was developed in just 3 hours, demonstrating efficient coding practices and quick turnaround.
+
+**Cross-Age Appeal:** The design and gameplay are tailored to attract players of all age groups.
+Copy
+
+
+## Preview 
+
+
+**Download the APK from Gdrive :-** https://drive.google.com/drive/folders/1cs87wZ6CT1HU1AZfDtn_CA-ftNqWoSeW
+
+[![Rolling Redemption Gameplay Video](https://img.youtube.com/vi/JSzkeeNHaPM/0.jpg)](https://www.youtube.com/watch?v=JSzkeeNHaPM)
+
+
+
+
+
 

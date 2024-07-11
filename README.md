@@ -23,6 +23,9 @@ Copy
 
 **Download the APK from Gdrive :-** https://drive.google.com/drive/folders/1cs87wZ6CT1HU1AZfDtn_CA-ftNqWoSeW
 
+**Web-To-Play :** https://outscal.com/devmaheswari2017/game/play-rolling-redemption-game
+
+
 [![Rolling Redemption Gameplay Video](https://img.youtube.com/vi/JSzkeeNHaPM/0.jpg)](https://www.youtube.com/watch?v=JSzkeeNHaPM)
 
 
